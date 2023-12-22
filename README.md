@@ -59,7 +59,6 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 <br/>  
 
 ## 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuawong&show_icons=true&theme=radical)](https://github.com/yuawong)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fishwongy&theme=cobalt)](https://git.io/streak-stats)
 
