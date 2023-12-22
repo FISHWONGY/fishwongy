@@ -60,11 +60,11 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fishwongy&theme=cobalt)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fishwongy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fishwongy" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fishwongy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fishwongy&show_icons=true&locale=en&theme=tokyonight" alt="fishwongy" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fishwongy&&theme=tokyonight" alt="fishwongy" /></p>
 
 ## 🤝 Connect with Me
 - 🗣️ [LinkedIn](https://www.linkedin.com/in/%F0%9F%92%BB-yu-wong-981612142/)
