@@ -2,7 +2,7 @@
 I'm a passionate Data Engineer currently based in London, UK, with a keen interest in Data Architecture Design.
 
 ## 🚀 Quick Facts
-- 💼 I’m a Data Engineering Lead @ Cisco
+- 😃 I’m a Data Engineering Lead @ Cisco
 - 🌱 I’m currently learning data related things
 - 💬 Ask me about #dataengineering #analyticsengineering #mlops
 - 📫 How to reach me: 📧
@@ -11,7 +11,7 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 - ✴️ Programming languages: `Python, R, SQL, Bash`
 - ☁️ Cloud: `GCP, Azure`
 - 💻 Platform: `Snowflake, Databricks`
-- ⌨️ Tools and technologies: `Docker, Kubernetes, Kafka, DBT, dagster`
+- 💼 Tools and technologies: `Docker, Kubernetes, Kafka, DBT, dagster`
 
 
 ## My Skill Set  
@@ -71,3 +71,4 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 - 📧 [Email](yuawong@cisco.com)
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat!
+
