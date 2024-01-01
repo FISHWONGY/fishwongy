@@ -8,7 +8,7 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 - 📫 How to reach me: 📧
 
 ## 🛠️ Skills
-- ✴️ Programming languages: `Python, R, SQL, Bash`
+- ✴️ Programming languages: `Python, R, SQL, Bash, Spark`
 - ☁️ Cloud: `GCP, Azure`
 - 💻 Platform: `Snowflake, Databricks`
 - 💼 Tools and technologies: `Docker, Kubernetes, Kafka, DBT, dagster`
