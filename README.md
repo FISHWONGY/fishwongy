@@ -12,7 +12,7 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 ## My Website ⭐
 ▶ [Click Me!](https://fishwongy.github.io/)
 
-## My latest blog posts! 📓
+## My latest blog posts 📓
 - [AIOPS Webex BOT](https://fishwongy.github.io/post/20231228_aiwebexbot/)
 - [Setting Up Azure Databricks](https://fishwongy.github.io/post/20231023_azuredatabricks/)
 - [Exploring Orchestration Tools for Data Pipelines](https://fishwongy.github.io/post/20230625_orchestrationtool/)
