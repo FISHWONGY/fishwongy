@@ -4,8 +4,20 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 ## 🚀 Quick Facts
 - 😃 I’m a Data Engineering Lead @ Cisco
 - 🌱 I’m currently learning data related things
-- 💬 Ask me about #dataengineering #analyticsengineering #mlops
-- 📫 How to reach me: 📧
+- 💬 Ask me about #dataengineering #analyticsengineering #mlop
+- 📫 How to reach me: ![Linkedin: Yu Wong](https://img.shields.io/badge/-yuwong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%F0%9F%92%BB-yu-wong-981612142/)
+
+<br/> 
+
+## My Website ⭐
+▶ [Click Me!](https://fishwongy.github.io/)
+
+## My latest blog posts! 📓
+- [AIOPS Webex BOT](https://fishwongy.github.io/post/20231228_aiwebexbot/)
+- [Setting Up Azure Databricks](https://fishwongy.github.io/post/20231023_azuredatabricks/)
+- [Exploring Orchestration Tools for Data Pipelines](https://fishwongy.github.io/post/20230625_orchestrationtool/)
+
+<br/> 
 
 ## 🛠️ Skills
 - ✴️ Programming languages: `Python, R, SQL, Bash, Spark`
@@ -62,7 +74,10 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fishwongy&&theme=tokyonight" alt="fishwongy" /></p>
 
-## 🤝 Connect with Me
+
+<br/> 
+
+## Connect with Me! 📫💬
 - 🗣️ [LinkedIn](https://www.linkedin.com/in/%F0%9F%92%BB-yu-wong-981612142/)
 - 📧 [Email](yuawong@cisco.com)
 
