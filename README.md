@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=%F0%9F%92%BB-yu-wong-981612142" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Yu-blue?logo=linkedin" /></a>
+  <a href="https://fishwongy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20My%20Wbsite-blue.svg" /></a>
+  <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
+</p>
+
+
 # Hello 👋
 I'm a passionate Data Engineer currently based in London, UK, with a keen interest in Data Architecture Design.
 
@@ -10,7 +17,9 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 <br/> 
 
 ## My Website ⭐
-▶ [Click Me!](https://fishwongy.github.io/)
+▶ <a href="https://fishwongy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20My%20Wbsite-blue.svg" /></a>
+</br>
+
 
 ## My latest blog posts 📓
 - [AIOPS Webex BOT](https://fishwongy.github.io/post/20231228_aiwebexbot/)
@@ -78,7 +87,7 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 <br/> 
 
 ## Connect with Me! 📫💬
-- 🗣️ [LinkedIn](https://www.linkedin.com/in/%F0%9F%92%BB-yu-wong-981612142/)
+- 🗣️ [![Linkedin: Yu Wong](https://img.shields.io/badge/-yuwong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%F0%9F%92%BB-yu-wong-981612142/)](https://www.linkedin.com/in/%F0%9F%92%BB-yu-wong-981612142/)
 - 📧 [Email](yuawong@cisco.com)
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat!
