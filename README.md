@@ -17,7 +17,7 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 <br/> 
 
 ## My Website ⭐
-▶ <a href="https://fishwongy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20My%20Wbsite-blue.svg" /></a>
+▶ <a href="https://fishwongy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20My%20Website-blue.svg" /></a>
 </br>
 
 
