@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=%F0%9F%92%BB-yu-wong-981612142" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Yu-blue?logo=linkedin" /></a>
   <a href="https://fishwongy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20My%20Website-blue.svg" /></a>
-  <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
+  <!--<a href="https://twitter.com/intent/follow?screen_name=fishwongxd" target="_blank"><img src="https://img.shields.io/twitter/follow/fishwongxd?style=social" /></a>-->
 </p>
 
 
