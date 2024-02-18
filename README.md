@@ -11,7 +11,7 @@ I'm a passionate Data Engineer currently based in London, UK, with a keen intere
 ## 🚀 Quick Facts
 - 😃 I’m a Data Engineering Lead @ Cisco
 - 🌱 I’m currently learning data related things
-- 💬 Ask me about #dataengineering #analyticsengineering #mlop
+- 💬 Ask me about #dataengineering #analyticsengineering #mlops
 - 📫 How to reach me: [![Linkedin: Yu Wong](https://img.shields.io/badge/-yuwong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%F0%9F%92%BB-yu-wong-981612142/)](https://www.linkedin.com/in/%F0%9F%92%BB-yu-wong-981612142/)
 
 <br/> 
